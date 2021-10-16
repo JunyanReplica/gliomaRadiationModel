@@ -17,7 +17,7 @@ For example, d4f4i4 stands for four fractions of 4 Gy. The microscope takes imag
 
 **Note: that each fraction in our experiment is 24 hours apart so there's no label for that**
 
-**Also note: The name "d5f3/d7f3" actually means 5.3Gy and 6.7 Gy. The reason we name it as "d5" and "d7" simply because MATLAB field name can't contain the symbol '.'. If checking the actual code, we use 5.3 and 6.7 in the calculation.**
+**Also note: The name "d5f3/d7f3" actually means 5.3Gy and 6.7 Gy. The reason we name it as "d5" and "d7" simply because MATLAB field name can't contain the symbol '.'. We use 5.3 and 6.7 in the calculation when implementing the code.**
 
 # Constants9L and ConstantsC6 include some constants from our previous study:
 
