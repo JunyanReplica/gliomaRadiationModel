@@ -23,6 +23,6 @@ For example, d4f4i4 stands for four fractions of 4 Gy. The microscope takes imag
 
 ## Liu, J., Hormuth, D. A., Davis, T., Yang, J., McKenna, M. T., Jarrett, A. M., ... & Yankeelov, T. E. (2021). A time-resolved experimental–mathematical model for predicting the response of glioma cells to single-dose radiation therapy. Integrative Biology.
 
-These are constants that assumes unchanged throughout the study
+These are constants that assumes unchanged throughout the study. The single dose data corresponding to this study is also included in the Excel file single_dose_data.xlsx
 
 ### The entry point of the code is "main.m"
